@@ -1,19 +1,4 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "first_name": "Shivam",
-            "last_name": "Gupta",
-            "email": "shiv17@gmail.com",
-            "password": "shiv@17",
-            "phone": "9182736473",
-            "token": "abcd123456kjbskbihvkhfbkdhv2345knb34hb423ljkblj35b2",
-            "address": [],
-            "cart": [],
-            "orders": [],
-            "card-details": []
-        }
-    ],
     "products": [
         {
             "id": 1,
@@ -38,19 +23,7 @@
                 "rate": 4.1,
                 "count": 259
             }
-        },
-        {
-            "id": 3,
-            "title": "Mens Cotton Jacket",
-            "price": 55.99,
-            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-            "category": "men's clothing",
-            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-            "rating": {
-                "rate": 4.7,
-                "count": 500
-            }
-        },
+        }
         
     ]
 }
